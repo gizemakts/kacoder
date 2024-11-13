@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Seda Çamgöz Adına Safran İlkokulu'na Konferans Salonu ve Kütüphane Yapımı",
+        "description": "Safran İlkokulu'na modern bir konferans salonu ve kütüphane kazandırarak öğrencilere daha iyi bir eğitim ortamı sunmayı hedefledik.",
+        "image": "../images/activity/seda-camgoz-projesi/seda-camgoz-projesi.webp",
+        "link": "../projects/seda-camgoz-projesi.html"
+    },
+    {
+        "title": "“Çocuk-Aile İlişkisi” Konulu Seminer",
+        "description": "Aileler ve çocuklar arasındaki iletişimi güçlendirmek amacıyla düzenlediğimiz seminer.",
+        "image": "../images/activity/cocuk-aile-iliskisi-seminer/cocuk-aile-iliskisi-seminer.webp",
+        "link": "../projects/cocuk-aile-iliskisi-seminer.html"
+    },
+    {
+        "title": "“Dokunma-Hayır” Konulu Seminer",
+        "description": "Çocuklara beden güvenliği ve mahremiyet eğitimi vermek amacıyla düzenlediğimiz seminer.",
+        "image": "../images/activity/dokunma-hayir-seminer/dokunma-hayir-seminer.webp",
+        "link": "../projects/dokunma-hayir-seminer.html"
+    },
+    {
+        "title": "25 Kasım Kadına Yönelik Şiddetle Mücadele Günü Semineri",
+        "description": "Kadına yönelik şiddetin önlenmesi ve farkındalık yaratılması amacıyla düzenlediğimiz seminer.",
+        "image": "../images/activity/25-kasim-seminer/25-kasim-seminer.webp",
+        "link": "../projects/25-kasim-seminer.html"
+    },
+    {
+        "title": "KAÇO-DER Huzur Korosu",
+        "description": "Toplumsal dayanışmayı ve huzuru pekiştirmek amacıyla oluşturulan müzik korosu projemiz.",
+        "image": "../images/activity/huzur-korosu/huzur-korosu.webp",
+        "link": "../projects/huzur-korosu.html"
+    },
+    {
+        "title": "Meme Kanseri Farkındalık Eğitimi",
+        "description": "Kadınlara meme kanseri konusunda farkındalık kazandırmak ve erken teşhisin önemini vurgulamak amacıyla düzenlediğimiz eğitim.",
+        "image": "../images/activity/meme-kanseri-egitim/meme-kanseri-egitim.webp",
+        "link": "../projects/meme-kanseri-egitim.html"
+    },
+    {
+        "title": "Huzurevi Bayram Etkinliği",
+        "description": "Huzurevi sakinleriyle bayram coşkusunu paylaşmak ve onlara moral vermek amacıyla düzenlediğimiz etkinlik.",
+        "image": "../images/activity/huzurevi-bayram-etkinligi/huzurevi-bayram-etkinligi.webp",
+        "link": "../projects/huzurevi-bayram-etkinligi.html"
+    },
+    {
+        "title": "Konferans: 'Şimdi Aile Olma Zamanı'",
+        "description": "Aile bağlarını güçlendirmek ve sağlıklı aile ilişkileri üzerine farkındalık oluşturmak amacıyla düzenlediğimiz konferans.",
+        "image": "../images/activity/simdi-aile-olma-zamani/simdi-aile-olma-zamani.jpg",
+        "link": "../projects/simdi-aile-olma-zamani.html"
+    }
+]
